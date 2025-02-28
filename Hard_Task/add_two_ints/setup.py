@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
 		'server = add_two_ints.service_server:main',
-		'client = add_two_ints.sevice_client:main',
+		'client = add_two_ints.service_client:main',
         ],
     },
 )
