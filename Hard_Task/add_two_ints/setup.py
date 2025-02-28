@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='ayisha',
     maintainer_email='ayisharinshapadickal@gmail.com',
-    description='Service tpo add two numbers',
+    description='Service to add two numbers',
     license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
