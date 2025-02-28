@@ -85,6 +85,7 @@ while running:
             prev_y=-1
             win.fill((255,255,255))
 
+
         elif event.type==pygame.KEYDOWN and event.key == pygame.K_s:
             filename=f"image_{count}.png"
             pygame.image.save(win,filename)
